@@ -1,4 +1,4 @@
-public class whiledo
+public class whiledos
 {
     public static void main(String[] args)
     {
